@@ -1,0 +1,16 @@
+Package: easycalc14
+Type: Package
+Title: Calibrates c14 samples using oxcAAR. Then outputs a plot and a csv file
+Version: 0.1.0
+Author: Rasmus Larshagen
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This is a simple package made as part of a tutorial
+License: none
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    ggplot2,
+    ggridges,
+    grDevices,
+    oxcAAR
+RoxygenNote: 7.3.2
